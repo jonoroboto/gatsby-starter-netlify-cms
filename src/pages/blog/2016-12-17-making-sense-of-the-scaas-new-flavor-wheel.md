@@ -9,6 +9,8 @@ featuredimage: /img/flavor_wheel.jpg
 tags:
   - flavor
   - tasting
+  - something else
+  - more tags
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
